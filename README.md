@@ -8,7 +8,7 @@ Forked from [Uniswap/uniswap-interface](https://github.com/Uniswap/uniswap-inter
 
 ## Accessing the KyberSwap Interface
 
-To access the KyberSwap Interface, visit [kyberswap.com](https://kyberswap.com/)
+To access the KyberSwap Interface, hi visit [kyberswap.com](https://kyberswap.com/)
 
 ## Development
 
